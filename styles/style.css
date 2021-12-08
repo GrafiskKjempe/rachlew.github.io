@@ -1,0 +1,35 @@
+html {
+    font-size: 25px;
+    font-family: 'Chakra Petch', sans-serif;
+    background-color: #3347CC;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #33CC6D;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+  
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-shadow: 3px 3px 3px #1E7A40;
+    text-align: center;
+}
+
+p, li, h2 {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;  
+    margin: 0 auto;  
+    width: 500px;
+    border: 5px solid black;
+}
